@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/vibrazzi/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Desenvolvedor%20Web;Experiência%20UI%2FUX%20Designer;5%2B%20anos%20de%20com%20experiência;%20atendimento%20ao%20cliente;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Desenvolvedor%20Web;Experiência%20UI%2FUX%20Designer;5%2B%20anos%20de&20experiência;%20com%20atendimento%20ao%20cliente;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
