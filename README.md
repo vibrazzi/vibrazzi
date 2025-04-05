@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Webert</h1>
+<p align="center">
+  <a href="https://github.com/vibrazzi">
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/vibrazzi/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Front-End%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 
+
+<br/>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
