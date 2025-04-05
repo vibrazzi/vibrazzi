@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Webert</h1>
-
-
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviossousa" height="30" width="40" /></a>
@@ -35,12 +32,12 @@
 </table>
 </div>
 
-<div style="text-align: center;">
-  <div style="display: inline; height: 100%;">
+<div style="text-align: right;">
+  <div style="display: inline-block; height: 100%;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&locale=en&layout=compact" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="otavio-sousa" style="height: 200px;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vibrazzi" style="height: 200px;" />
     </picture>
   </div>
 
