@@ -36,13 +36,27 @@
 </div>
 
 <div style="text-align: center;">
-  <div style="display: inline; height: 100%;">
+  <div style="display: inline-block; height: 100%;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&locale=en&layout=compact" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vibrazzi" style="height: 200px;" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vibrazzi" style="height: 200px;" />
     </picture>
   </div>
 
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" alt="vibrazzi" style="height: 200px;" />
+    </picture>
+  </div>
+</div>
 
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vibrazzi/vibrazzi/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/vibrazzi/vibrazzi/blob/output/github-snake.svg" />
+  </picture>
+</div>
 
