@@ -58,7 +58,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" alt="vibrazzi" style="height: 200px;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" alt="vibrazzi" style="height: 180px;" />
     </picture>
   </div>
 </div>
