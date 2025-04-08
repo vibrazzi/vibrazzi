@@ -14,7 +14,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviossousa" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviossousa" height="30" width="30" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
