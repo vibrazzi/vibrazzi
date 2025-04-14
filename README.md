@@ -12,7 +12,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviossousa" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vibrazzi" height="30" width="30" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -48,15 +48,15 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vibrazzi" style="height: 200px;" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vibrazzi" style="height: 200;" />
     </picture>
   </div>
 
-  <div style="display: inline-block; height: 100%;">
+  <div style="display: inline-block; height: 100;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" alt="vibrazzi" style="height: 180px;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" alt="vibrazzi" style="height: 180;" />
     </picture>
   </div>
 </div>
