@@ -48,7 +48,8 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vibrazzi" style="height: 200;" />
+      <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en&cache_seconds=1800
+)" alt="vibrazzi" style="height: 200;" />
     </picture>
   </div>
 
@@ -56,7 +57,8 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" alt="vibrazzi" style="height: 180;" />
+      <img align="center" src="[https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en](https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en&cache_seconds=1800
+)" alt="vibrazzi" style="height: 180;" />
     </picture>
   </div>
 </div>
