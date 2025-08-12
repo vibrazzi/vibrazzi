@@ -43,20 +43,20 @@
   </table>
 </p>
 
-<div>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact&cache_seconds=1800" alt="Top languages" style="height: 200px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact&cache_seconds=1800" alt="Top languages" height="200px" />
     </picture>
   </div>
-
-  <div> 
+  <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en&cache_seconds=1800" alt="GitHub stats" style="height: 200px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en&cache_seconds=1800" alt="GitHub stats" height="200px" />
     </picture>
   </div>
 </div>
+
