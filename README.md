@@ -43,7 +43,7 @@
   </table>
 </p>
 
-<div style="text-align: center; align="center">
+<div align="center">
   <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" />
