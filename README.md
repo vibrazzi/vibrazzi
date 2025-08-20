@@ -3,25 +3,26 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/vibrazzi/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Front-End%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <!-- Typing SVG by DenverCoder1 -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Front-End%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
 <br/>
 
 <h2 align="center">Connect with me:</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vibrazzi" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
 
-<p align="center" justify-content="center">
-  <table align="center">
+<p align="center">
+  <table align="center"> 
     <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -43,20 +44,20 @@
   </table>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&locale=en&layout=compact" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrazzi&show_icons=true&theme=dracula&locale=en&layout=compact&cache_seconds=1800" alt="Top languages" height="200px" />
-    </picture>
-  </div>
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&locale=en" />
-      <img src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&locale=en&cache_seconds=1800" alt="GitHub stats" height="200px" />
-    </picture>
-  </div>
-</div>
+<h2 align="center">📊 GitHub Stats:</h2>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&theme=dracula&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&theme=dracula&cache_seconds=86400" alt="Top Languages" height="200px" />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&cache_seconds=86400" alt="GitHub Stats" height="200px" />
+  </picture>
+</div>
