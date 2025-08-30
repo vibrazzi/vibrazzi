@@ -48,8 +48,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&theme=dracula&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&theme=dracula&cache_seconds=86400](https://github-readme-stats-sigma-five.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&hide_border=true&title_color=BB2AE1&icon_color=BB2AE1&text_color=c9d1d9&bg_color=0d1117)" />
+    <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&cache_seconds=86400](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&theme=dracula&cache_seconds=86400" alt="Top Languages" height="200px" />
   </picture>
 
@@ -61,3 +61,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&cache_seconds=86400" alt="GitHub Stats" height="200px" />
   </picture>
 </div>
+
+
