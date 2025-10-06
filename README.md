@@ -44,22 +44,41 @@
   </table>
 </p>
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+
+  <!-- STATS CARD -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&theme=dracula&cache_seconds=86400](https://github-readme-stats-sigma-five.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&hide_border=true&title_color=BB2AE1&icon_color=BB2AE1&text_color=c9d1d9&bg_color=0d1117)" />
-    <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&cache_seconds=86400](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&theme=dracula&cache_seconds=86400" alt="Top Languages" height="200px" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=1800" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+    <img
+      alt="GitHub Stats de vibrazzi"
+      src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=1800"
+      height="180" />
   </picture>
 
   <br/>
 
+  <!-- TOP LANGS -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&cache_seconds=86400" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&theme=dracula&cache_seconds=86400" alt="GitHub Stats" height="200px" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&cache_seconds=1800" />
+    <img
+      alt="Linguagens mais usadas por vibrazzi"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800"
+      height="180" />
   </picture>
+
 </div>
+
 
 
