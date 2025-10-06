@@ -55,10 +55,10 @@
       srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=1800" />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+      srcset="![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?vibrazzi=HwangTaehyun)" />
     <img
       alt="GitHub Stats de vibrazzi"
-      src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=1800"
+      src="![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?vibrazzi=HwangTaehyun)"
       height="180" />
   </picture>
 
