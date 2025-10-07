@@ -219,7 +219,7 @@
 
 <div align="center">
   
-  <!-- GitHub Contribution Snake -->
+  <!-- GitHub Contribution Snake - Generating... -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -228,8 +228,8 @@
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/vibrazzi/vibrazzi/output/github-contribution-grid-snake.svg" />
     <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/vibrazzi/vibrazzi/output/github-contribution-grid-snake-dark.svg"
+      alt="Generating contribution snake..."
+      src="https://readme-typing-svg.demolab.com/?lines=🐍%20Generating%20contribution%20snake...;⏳%20Please%20wait%20while%20GitHub%20Actions%20runs;🔄%20Snake%20will%20appear%20shortly!&font=Fira%20Code&center=true&width=600&height=100&color=f75c7e&vCenter=true&pause=2000&size=16"
       width="100%" />
   </picture>
 
