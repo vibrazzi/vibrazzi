@@ -125,6 +125,30 @@
 
 <br/>
 
+<br/>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  
+  <!-- GitHub Contribution Snake - Generating... -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vibrazzi/vibrazzi/output/github-contribution-grid-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vibrazzi/vibrazzi/output/github-contribution-grid-snake.svg" />
+    <img
+      alt="Generating contribution snake..."
+      src="https://readme-typing-svg.demolab.com/?lines=🐍%20Generating%20contribution%20snake...;⏳%20Please%20wait%20while%20GitHub%20Actions%20runs;🔄%20Snake%20will%20appear%20shortly!&font=Fira%20Code&center=true&width=600&height=100&color=f75c7e&vCenter=true&pause=2000&size=16"
+      width="100%" />
+  </picture>
+
+</div>
+
+<br/>
+
 <h2 align="center">🛠️ Featured Projects</h2>
 
 <div align="center">
@@ -170,30 +194,6 @@
 
 </div>
 
-<br/>
-
-<h2 align="center">📈 Streak Stats</h2>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=vibrazzi&theme=dracula&hide_border=true&cache_seconds=1800" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?user=vibrazzi&theme=default&hide_border=true&cache_seconds=1800" />
-    <img
-      alt="GitHub Streak Stats"
-      src="https://streak-stats.demolab.com/?user=vibrazzi&theme=dracula&hide_border=true&cache_seconds=1800"
-      height="200" />
-  </picture>
-
-</div>
-
-<br/>
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
@@ -210,37 +210,6 @@
       alt="Troféus do GitHub"
       src="https://github-profile-trophy.vercel.app/?username=vibrazzi&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
   </picture>
-
-</div>
-
-<br/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  
-  <!-- GitHub Contribution Snake - Generating... -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vibrazzi/vibrazzi/output/github-contribution-grid-snake-dark.svg" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vibrazzi/vibrazzi/output/github-contribution-grid-snake.svg" />
-    <img
-      alt="Generating contribution snake..."
-      src="https://readme-typing-svg.demolab.com/?lines=🐍%20Generating%20contribution%20snake...;⏳%20Please%20wait%20while%20GitHub%20Actions%20runs;🔄%20Snake%20will%20appear%20shortly!&font=Fira%20Code&center=true&width=600&height=100&color=f75c7e&vCenter=true&pause=2000&size=16"
-      width="100%" />
-  </picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <!-- Fun Footer -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks%20for%20visiting!;Let's%20connect%20and%20build%20something%20amazing!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" alt="Thanks" />
 
 </div>
 
