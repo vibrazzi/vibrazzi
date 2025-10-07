@@ -5,21 +5,38 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Front-End%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;Front-End%20Developer;JavaScript%20%7C%20TypeScript%20%7C%20React%20%7C%20Vue;&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
 <br/>
 
-<h2 align="center">Connect with me:</h2>
+<div align="center">
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=vibrazzi&label=Profile%20views&color=0e75b6&style=flat" alt="vibrazzi" />
+  
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/vibrazzi?label=Followers&style=social" alt="GitHub Badge" />
+  
+</div>
+
+<br/>
+
+<h2 align="center">🤝 Connect with me:</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portifolio-vue-delta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
+<br/>
+
+<h2 align="center">🚀 Languages and Tools:</h2>
 
 <p align="center">
   <table align="center"> 
@@ -37,12 +54,40 @@
         <br/>React
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="65" height="65" />
+        <br/>Vue.js
+      </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
         <br/>Git
       </td>
     </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
+        <br/>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
+        <br/>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+        <br/>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" />
+        <br/>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="65" height="65" />
+        <br/>Figma
+      </td>
+    </tr>
   </table>
 </p>
+
+<br/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -52,33 +97,167 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=1800" />
+      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&cache_seconds=1800" />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?vibrazzi=HwangTaehyun)" />
+      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=1800" />
     <img
       alt="GitHub Stats de vibrazzi"
-      src="![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?vibrazzi=HwangTaehyun)"
-      height="180" />
+      src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&cache_seconds=1800"
+      height="200" />
   </picture>
-
-  <br/>
 
   <!-- TOP LANGS -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800" />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=1800" />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&cache_seconds=1800" />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800" />
     <img
       alt="Linguagens mais usadas por vibrazzi"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800"
-      height="180" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=1800"
+      height="200" />
   </picture>
 
 </div>
 
+<br/>
 
+<h2 align="center">🛠️ Featured Projects</h2>
 
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <!-- Vitrine Vinhos Project Card -->
+        <a href="https://github.com/vibrazzi/vitrine-vinhos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=vitrine-vinhos&theme=dracula&hide_border=true&cache_seconds=1800" alt="Vitrine Vinhos Repository" />
+        </a>
+      </td>
+      <td width="50%">
+        <!-- GitHub Metrics Project Card -->
+        <a href="https://github.com/vibrazzi/github-metrics">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=github-metrics&theme=dracula&hide_border=true&cache_seconds=1800" alt="GitHub Metrics Repository" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  
+  <!-- GitHub Activity Graph -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=vibrazzi&theme=github-compact&hide_border=true&cache_seconds=1800" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=vibrazzi&theme=minimal&hide_border=true&cache_seconds=1800" />
+    <img
+      alt="Gráfico de Atividade do GitHub"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=vibrazzi&theme=github-compact&hide_border=true&cache_seconds=1800"
+      width="100%" />
+  </picture>
+
+</div>
+
+<br/>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=vibrazzi&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-trophy.vercel.app/?username=vibrazzi&theme=flat&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+    <img
+      alt="Troféus do GitHub"
+      src="https://github-profile-trophy.vercel.app/?username=vibrazzi&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  </picture>
+
+</div>
+
+<br/>
+
+<h2 align="center">📋 GitHub Metrics</h2>
+
+<div align="center">
+
+  <!-- Detailed GitHub Metrics -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://metrics.lecoq.io/vibrazzi?template=classic&config.timezone=America%2FSao_Paulo&config.animated=true&repositories.forks=true&languages=1&lines=1&config.padding=0%2C%208%20%2B%208%25&config.output=auto&config.timezone=America%2FSao_Paulo&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.twemoji=true&config.gemoji=true&config.octicon=true&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.display=large&config.animations=true&config.base64=false&config.dryrun=false&config.experimental.optimize=false&config.use_prebuilt=true" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://metrics.lecoq.io/vibrazzi?template=classic&config.timezone=America%2FSao_Paulo&config.animated=true&repositories.forks=true&languages=1&lines=1&config.padding=0%2C%208%20%2B%208%25&config.output=auto&config.timezone=America%2FSao_Paulo&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.twemoji=true&config.gemoji=true&config.octicon=true&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.display=large&config.animations=true&config.base64=false&config.dryrun=false&config.experimental.optimize=false&config.use_prebuilt=true" />
+    <img
+      alt="Métricas detalhadas do GitHub"
+      src="https://metrics.lecoq.io/vibrazzi?template=classic&config.timezone=America%2FSao_Paulo&config.animated=true&repositories.forks=true&languages=1&lines=1&config.padding=0%2C%208%20%2B%208%25&config.output=auto&config.timezone=America%2FSao_Paulo&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.twemoji=true&config.gemoji=true&config.octicon=true&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.display=large&config.animations=true&config.base64=false&config.dryrun=false&config.experimental.optimize=false&config.use_prebuilt=true"
+      width="100%" />
+  </picture>
+
+</div>
+
+<br/>
+
+<h2 align="center">📈 Streak Stats</h2>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=vibrazzi&theme=dracula&hide_border=true&cache_seconds=1800" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=vibrazzi&theme=default&hide_border=true&cache_seconds=1800" />
+    <img
+      alt="GitHub Streak Stats"
+      src="https://streak-stats.demolab.com/?user=vibrazzi&theme=dracula&hide_border=true&cache_seconds=1800"
+      width="100%" />
+  </picture>
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 Weekly Development Breakdown</h2>
+
+<div align="center">
+  
+  <!-- Wakatime Stats -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vibrazzi&theme=dracula&hide_border=true&layout=compact" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vibrazzi&theme=default&hide_border=true&layout=compact" />
+    <img
+      alt="Wakatime Stats"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=vibrazzi&theme=dracula&hide_border=true&layout=compact" />
+  </picture>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/vibrazzi">vibrazzi</a> with ❤️</sub>
+</div>
