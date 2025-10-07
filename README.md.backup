@@ -172,28 +172,6 @@
 
 <br/>
 
-<h2 align="center">📈 Streak Stats</h2>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com/?user=vibrazzi&theme=dracula&hide_border=true&cache_seconds=1800" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com/?user=vibrazzi&theme=default&hide_border=true&cache_seconds=1800" />
-    <img
-      alt="GitHub Streak Stats"
-      src="https://streak-stats.demolab.com/?user=vibrazzi&theme=dracula&hide_border=true&cache_seconds=1800"
-      height="200" />
-  </picture>
-
-</div>
-
-<br/>
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
@@ -215,10 +193,66 @@
 
 <br/>
 
+<h2 align="center">📋 GitHub Metrics</h2>
+
+<div align="center">
+
+  <!-- Detailed GitHub Metrics -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://metrics.lecoq.io/vibrazzi?template=classic&config.timezone=America%2FSao_Paulo&config.animated=true&repositories.forks=true&languages=1&lines=1&config.padding=0%2C%208%20%2B%208%25&config.output=auto&config.timezone=America%2FSao_Paulo&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.twemoji=true&config.gemoji=true&config.octicon=true&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.display=large&config.animations=true&config.base64=false&config.dryrun=false&config.experimental.optimize=false&config.use_prebuilt=true" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://metrics.lecoq.io/vibrazzi?template=classic&config.timezone=America%2FSao_Paulo&config.animated=true&repositories.forks=true&languages=1&lines=1&config.padding=0%2C%208%20%2B%208%25&config.output=auto&config.timezone=America%2FSao_Paulo&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.twemoji=true&config.gemoji=true&config.octicon=true&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.display=large&config.animations=true&config.base64=false&config.dryrun=false&config.experimental.optimize=false&config.use_prebuilt=true" />
+    <img
+      alt="Métricas detalhadas do GitHub"
+      src="https://metrics.lecoq.io/vibrazzi?template=classic&config.timezone=America%2FSao_Paulo&config.animated=true&repositories.forks=true&languages=1&lines=1&config.padding=0%2C%208%20%2B%208%25&config.output=auto&config.timezone=America%2FSao_Paulo&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.twemoji=true&config.gemoji=true&config.octicon=true&base.indepth=true&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.display=large&config.animations=true&config.base64=false&config.dryrun=false&config.experimental.optimize=false&config.use_prebuilt=true"
+      width="100%" />
+  </picture>
+
+</div>
+
+<br/>
+
+<h2 align="center">📈 Streak Stats</h2>
+
 <div align="center">
   
-  <!-- Fun Footer -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks%20for%20visiting!;Let's%20connect%20and%20build%20something%20amazing!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" alt="Thanks" />
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com/?user=vibrazzi&theme=dracula&hide_border=true&cache_seconds=1800" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com/?user=vibrazzi&theme=default&hide_border=true&cache_seconds=1800" />
+    <img
+      alt="GitHub Streak Stats"
+      src="https://streak-stats.demolab.com/?user=vibrazzi&theme=dracula&hide_border=true&cache_seconds=1800"
+      width="100%" />
+  </picture>
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 Weekly Development Breakdown</h2>
+
+<div align="center">
+  
+  <!-- Wakatime Stats -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vibrazzi&theme=dracula&hide_border=true&layout=compact" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=vibrazzi&theme=default&hide_border=true&layout=compact" />
+    <img
+      alt="Wakatime Stats"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=vibrazzi&theme=dracula&hide_border=true&layout=compact" />
+  </picture>
 
 </div>
 
