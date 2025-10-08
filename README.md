@@ -97,13 +97,13 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&cache_seconds=1800" />
+      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=1800" />
     <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=1800" />
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800" />
     <img
       alt="GitHub Stats de vibrazzi"
-      src="https://github-readme-stats.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&cache_seconds=1800"
+      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800"
       height="200" />
   </picture>
 
