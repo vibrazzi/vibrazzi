@@ -91,36 +91,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-
-  <!-- STATS CARD -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=1800" />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800" />
-    <img
-      alt="GitHub Stats de vibrazzi"
-      srcset="https://github-readme-stats.vercel.app/api?username=vibrazzi&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800"
-      height="200" />
-  </picture>
-
-  <!-- TOP LANGS -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=1800" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=default&hide_border=true&cache_seconds=1800" />
-    <img
-      alt="Linguagens mais usadas por vibrazzi"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=1800"
-      height="200" />
-  </picture>
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&hide_border=true&title_color=BB2AE1&icon_color=BB2AE1&text_color=c9d1d9&bg_color=0d1117" alt="Webert Fernandes  github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <br/>
