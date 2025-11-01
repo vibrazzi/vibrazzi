@@ -129,15 +129,15 @@
   <table>
     <tr>
       <td width="50%">
-        <!-- Vitrine Vinhos Project Card -->
-        <a href="https://github.com/vibrazzi/vitrine-vinhos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=vitrine-vinhos&theme=dracula&hide_border=true&cache_seconds=1800" alt="Vitrine Vinhos Repository" />
+        <!-- Code Mentor Project Card -->
+        <a href="https://github.com/vibrazzi/code-mentor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=code-mentor&theme=dracula&hide_border=true&cache_seconds=1800" alt="Code Mentor Repository" />
         </a>
       </td>
       <td width="50%">
-        <!-- GitHub Metrics Project Card -->
-        <a href="https://github.com/vibrazzi/github-metrics">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=github-metrics&theme=dracula&hide_border=true&cache_seconds=1800" alt="GitHub Metrics Repository" />
+        <!-- Vitrine Vinhos Project Card -->
+        <a href="https://github.com/vibrazzi/vitrine-vinhos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=vitrine-vinhos&theme=dracula&hide_border=true&cache_seconds=1800" alt="Vitrine Vinhos Repository" />
         </a>
       </td>
     </tr>
