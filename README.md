@@ -1,11 +1,6 @@
 <p align="center">
   <a href="https://github.com/vibrazzi">
-</p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;Full-Stack%20Developer;JavaScript%20%7C%20TypeScript%20%7C%20React%20%7C%20Python;&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Developer;GenAIOps%20%7C%20IA%20Generativa;Python%20%7C%20FastAPI%20%7C%20React%20%7C%20;LLMs%20%7C%20LangChain%20%7C%;&font=Fira20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,77 +21,100 @@
 <h2 align="center">🤝 Connect with me:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="_blank">
+  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portifolio-vue-delta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mailto:webertfernandes16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/5534997926005" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 <br/>
 
-<h2 align="center">🚀 Languages and Tools:</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<p align="center">
-  <table align="center"> 
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br/>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br/>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br/>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="65" height="65" />
-        <br/>Vue.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
-        <br/>Git
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
-        <br/>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
-        <br/>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
-        <br/>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" />
-        <br/>VS Code
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="65" height="65" />
-        <br/>Figma
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+### 🧠 IA & Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+" alt="Groq" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+" alt="Ollama" />
 </p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+</div>
 
 <br/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&hide_border=true&title_color=BB2AE1&icon_color=BB2AE1&text_color=c9d1d9&bg_color=0d1117" alt="Webert Fernandes  github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&hide_border=true&title_color=BB2AE1&icon_color=BB2AE1&text_color=c9d1d9&bg_color=0d1117" alt="Webert Fernandes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <br/>
+
+<h2 align="center">🛠️ Projetos em Destaque</h2>
+
+<div align="center">
+
+### 🦾 CodeMentor AI
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibrazzi/code-mentor)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://code-mentor-production-4d2f.up.railway.app)
+
+**Sistema de mentoria inteligente para ensino de lógica de programação**
+
+`Python 3.12` `SSE` `FastAPI` `Groq API` `Ollama` `Docker` `Railway` `CI/CD`
+
+✨ **Realizações:**
+- SSE em tempo real
+- CI/CD no Railway
+- Validação Pydantic
+- Containerização Docker
+
+<br/>
+
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/vibrazzi/code-mentor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=code-mentor&theme=dracula&hide_border=true&cache_seconds=1800" alt="Code Mentor Repository" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/vibrazzi/vitrine-vinhos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=vitrine-vinhos&theme=dracula&hide_border=true&cache_seconds=1800" alt="Vitrine Vinhos Repository" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <br/>
 
@@ -104,7 +122,6 @@
 
 <div align="center">
   
-  <!-- GitHub Contribution Snake - Generating... -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -122,36 +139,10 @@
 
 <br/>
 
-<h2 align="center">🛠️ Featured Projects</h2>
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <!-- Code Mentor Project Card -->
-        <a href="https://github.com/vibrazzi/code-mentor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=code-mentor&theme=dracula&hide_border=true&cache_seconds=1800" alt="Code Mentor Repository" />
-        </a>
-      </td>
-      <td width="50%">
-        <!-- Vitrine Vinhos Project Card -->
-        <a href="https://github.com/vibrazzi/vitrine-vinhos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vibrazzi&repo=vitrine-vinhos&theme=dracula&hide_border=true&cache_seconds=1800" alt="Vitrine Vinhos Repository" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br/>
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
   
-  <!-- GitHub Activity Graph -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -167,11 +158,12 @@
 
 </div>
 
+<br/>
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
   
-  <!-- GitHub Trophies -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -186,8 +178,37 @@
 
 </div>
 
+<br/>
+
+<h2 align="center">🎯 Competências</h2>
+
+<div align="center">
+
+| Área | Nível |
+|------|-------|
+| 🧠 IA Generativa & MLOps | ████████████████████ 95% |
+| 💻 Desenvolvimento Full Stack | ████████████████████ 92% |
+| 🐍 Python & FastAPI | ████████████████████ 90% |
+| ⚛️ React | █████████████░░░░░░░ 65% |
+
+</div>
+
+<br/>
+
+<h2 align="center">🎵 Também sou músico!</h2>
+
+<div align="center">
+  
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0E7kdLTbivs01br4APOfRX?si=0x5VxA1BRW6UxG98zOUbUA)
+  
+  Confira minhas músicas no Spotify! 🎧
+
+</div>
+
 ---
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/vibrazzi">vibrazzi</a> with ❤️</sub>
+  <sub>⭐ From <a href="https://github.com/vibrazzi">vibrazzi</a></sub>
+  <br/>
+  <sub>🚀 Especializando em GenAIOps e IA Generativa</sub>
 </div>
