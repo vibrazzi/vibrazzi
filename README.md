@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vibrazzi">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Developer;GenAIOps%20%7C%20IA%20Generativa;Python%20%7C%20FastAPI%20%7C%20React%20%7C%20;LLMs%20%7C%20LangChain%20%7C%;&font=Fira20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Developer;GenAIOps%20%7C%20IA%20Generativa;Python%20%7C%20FastAPI%20%7C%20React%20%7C%20;LLMs20%7C%20LangChain;&font=Fira20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
