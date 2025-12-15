@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vibrazzi">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Front-End%20Developer;JavaScript%20%7C%20TypeScript%20%7C%20React%20%7C%20Vue.js;Web%20Components%20%7C%20Shopify%20Integrations;&font=Fira20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Web%20Developer;JavaScript%20%7C%20TypeScript%20%7C%20React%20%7C%20Vue.js;Web%20Components%20%7C%20Shopify%20Integrations;&font=Fira20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
