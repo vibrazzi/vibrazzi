@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vibrazzi">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Developer;GenAIOps%20%7C%20IA%20Generativa;Python%20%7C%20FastAPI%20%7C%20React%20%7C%20;LLMs20%7C%20LangChain;&font=Fira20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Webert%20Fernandes;%20Front-End%20Developer;JavaScript%20%7C%20TypeScript%20%7C%20React%20%7C%20Vue.js;Web%20Components%20%7C%20Shopify%20Integrations;&font=Fira20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,29 +41,32 @@
 
 <div align="center">
 
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
 ### 🧠 IA & Backend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+" alt="Groq" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+" alt="Ollama" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ### 🛠️ DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/LIT-000000?style=for-the-badge&logo=lit&logoColor=white" alt="LIT" />
 </p>
 
 </div>
@@ -186,10 +189,11 @@
 
 | Área | Nível |
 |------|-------|
-| 🧠 IA Generativa & MLOps | ████████████████████ 95% |
-| 💻 Desenvolvimento Full Stack | ████████████████████ 92% |
-| 🐍 Python & FastAPI | ████████████████████ 90% |
-| ⚛️ React | █████████████░░░░░░░ 65% |
+| 🎨 JavaScript & TypeScript | ████████████████████ 95% |
+| ⚛️ React & Vue.js | ████████████████████ 90% |
+| 🔗 Integração de APIs | ████████████████████ 85% |
+| 💻 Desenvolvimento Web | ████████████████████ 93% |
+| 🧠 Desenvolvimento de Plataformas de IA | ██████████░░░░░░░░░░ 50% |
 
 </div>
 
@@ -206,9 +210,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/vibrazzi">vibrazzi</a></sub>
-  <br/>
-  <sub>🚀 Especializando em GenAIOps e IA Generativa</sub>
-</div>
