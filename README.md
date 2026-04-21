@@ -21,10 +21,6 @@
 
 <br/>
 
-## 👋 About Me
-
-I'm a **Systems Analyst and Web Developer** specializing in building modern, scalable web applications and AI-powered solutions. With expertise in JavaScript, TypeScript, React, Vue.js, and Python, I focus on creating high-quality user experiences and robust backend systems. Currently working at **87 Labs**, developing Shopify integrations and innovative web solutions.
-
 **Key Focus Areas:**
 - 🎨 Frontend Architecture & Component Design
 - 🔗 API Integration & Backend Development
@@ -154,37 +150,6 @@ A sophisticated wine showcase platform for W Premium Lounge featuring a headless
 
 ---
 
-## 💼 Professional Experience
-
-### Analista de Sistemas — 87 Labs *(Jul 2024 - Present)*
-
-Developing responsive web applications and Shopify-integrated solutions with focus on technical excellence and business value delivery.
-
-**Responsibilities:**
-- Architecting scalable web applications using modern frontend frameworks
-- Creating reusable web components with LIT for modular interfaces
-- Integrating custom Shopify apps and functionalities
-- Analyzing requirements and defining robust system architectures
-- Optimizing application performance and user experience
-
-**Technologies:** JavaScript, TypeScript, React, Vue.js, LIT, Shopify, APIs
-
----
-
-### Desenvolvedor Web — W Premium Lounge *(Mar 2025 - May 2025)*
-
-Built an interactive digital menu system with Vue 3, delivering enhanced user experiences for premium environments.
-
-**Responsibilities:**
-- Developing responsive interfaces for mobile and desktop
-- Implementing API integrations for dynamic content
-- Ensuring performance and accessibility standards
-- Creating premium user experiences
-
-**Technologies:** Vue.js, JavaScript, APIs, HTML, CSS
-
----
-
 ## 🎓 Competencies
 
 | Area | Proficiency |
@@ -212,51 +177,6 @@ Built an interactive digital menu system with Vue 3, delivering enhanced user ex
       alt="GitHub contribution snake animation"
       src="https://readme-typing-svg.demolab.com/?lines=🐍%20Generating%20contribution%20snake...;⏳%20Please%20wait%20while%20GitHub%20Actions%20runs;🔄%20Snake%20will%20appear%20shortly!&font=Fira%20Code&center=true&width=600&height=100&color=00D9FF&vCenter=true&pause=2000&size=16"
       width="100%" />
-  </picture>
-
-</div>
-
-<br/>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=vibrazzi&theme=github-compact&hide_border=true&cache_seconds=1800" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=vibrazzi&theme=minimal&hide_border=true&cache_seconds=1800" />
-    <img
-      alt="GitHub activity graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=vibrazzi&theme=github-compact&hide_border=true&cache_seconds=1800"
-      width="100%" />
-  </picture>
-
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=vibrazzi&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=vibrazzi&theme=flat&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-    <img
-      alt="GitHub trophies"
-      src="https://github-profile-trophy.vercel.app/?username=vibrazzi&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
   </picture>
 
 </div>
