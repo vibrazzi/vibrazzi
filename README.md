@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Oi" width="48" height="48" />
   <br/>
   <a href="https://github.com/vibrazzi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=780&height=60&lines=Webert+Fernandes;Analista+de+Sistemas+%26+Dev+Web;JavaScript+%7C+TypeScript+%7C+React+%7C+Vue.js;Integra%C3%A7%C3%A3o+com+IA+%7C+Solu%C3%A7%C3%B5es+Shopify" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&height=60&lines=Webert+Fernandes;Engenheiro+Web+%C2%B7+Travel+Tech+%26+IA+Generativa;React+%7C+TypeScript+%7C+JavaScript+%7C+Python;Shopify+%7C+Lit+%7C+ServiceNow+%7C+Fluxos+com+LLMs" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -16,19 +16,21 @@
 
 ### Sobre
 
-Analista de sistemas e desenvolvedor web. Curto construir interfaces sólidas, APIs bem feitas e produtos com IA no meio do caminho — especialmente no ecossistema Shopify e e-commerce.
+**Engenheiro Web** com atuação na modernização de arquiteturas legadas, construção de interfaces escaláveis em **React / TypeScript** e integração de fluxos com **IA Generativa** e **Python** em produção.
+
+Atualmente atuo com produtos de **Travel Tech** na **Cangooroo (T4W)**, após construir aplicações e Web Components de alta escala para o ecossistema **Shopify** e integrações com **ServiceNow** na **87Labs**.
 
 <details>
-<summary><b>O que mais me interessa (clique)</b></summary>
+<summary><b>Áreas de atuação & formação (clique)</b></summary>
 <br/>
 
-| | Tema | Foco |
+| | Área | Foco |
 |:--:|:-----|:-----|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="22" height="22" alt="" /> | **Frontend** | Arquitetura e design de componentes |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="22" height="22" alt="" /> | **APIs & Backend** | Integrações e desenvolvimento de serviços |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" alt="" /> | **IA / LLMs** | Integração com plataformas generativas |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="22" height="22" alt="" /> | **Shopify** | Apps e soluções de e-commerce |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" height="22" alt="" /> | **Performance** | Otimização e escalabilidade |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="22" height="22" alt="" /> | **Front-end & Arquitetura UI** | React, TypeScript, Vue 3, refatoração de código legado e performance |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" alt="" /> | **IA Generativa & LLMs** | Fluxos multiagente, streaming em tempo real (SSE), FastAPI e Groq API |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="22" height="22" alt="" /> | **E-commerce & Plataformas** | Apps e widgets Shopify com Web Components (Lit), Liquid e ServiceNow |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="22" height="22" alt="" /> | **APIs & Entrega** | Integrações REST, Pydantic, Docker, Git e pipelines de CI/CD |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" height="22" alt="" /> | **Formação** | Análise e Desenvolvimento de Sistemas · Descomplica (2024 – 2026) |
 
 </details>
 
@@ -37,7 +39,7 @@ Analista de sistemas e desenvolvedor web. Curto construir interfaces sólidas, A
 ### Conecte-se
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253" target="_blank">
+  <a href="https://www.linkedin.com/in/webert-fernandes-2b6463253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://webert-fernandes.vercel.app/" target="_blank">
@@ -56,31 +58,37 @@ Analista de sistemas e desenvolvedor web. Curto construir interfaces sólidas, A
 ### Stack
 
 <p align="center">
-  <b>Frontend</b><br/>
+  <b>Front-end & UI</b><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwind&perline=7" alt="Frontend" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Backend & IA</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express&perline=4" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,vue,html,css,tailwind&perline=7" alt="Front-end" />
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/LLMs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Lit-324FFF?style=flat-square&logo=lit&logoColor=white" alt="Lit" />
+  <img src="https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Liquid" />
+  <img src="https://img.shields.io/badge/Web_Components-29ABE2?style=flat-square&logo=webcomponentsdotorg&logoColor=white" alt="Web Components" />
 </p>
 
 <p align="center">
-  <b>DevOps & ferramentas</b><br/>
+  <b>IA Generativa & Back-end</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express&perline=4" alt="Back-end" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/IA_Generativa_&_LLMs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="IA Generativa e LLMs" />
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq API" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+</p>
+
+<p align="center">
+  <b>Plataformas, DevOps & Ferramentas</b><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,mongodb,postgres,aws&perline=5" alt="DevOps" />
   </a>
   <br/>
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
@@ -88,67 +96,71 @@ Analista de sistemas e desenvolvedor web. Curto construir interfaces sólidas, A
 ### GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vibrazzi&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=FF006E&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vibrazzi&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&locale=pt-br" alt="Linguagens" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vibrazzi&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vibrazzi&theme=github_dark" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibrazzi&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF006E&area=true&hide_border=true" alt="Gráfico de atividade" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vibrazzi&theme=github_dark" alt="Detalhes e atividade do perfil" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=vibrazzi&hide_border=true&background=0D1117&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
 ---
 
-### Projetos em destaque
+### Projetos em que trabalhei
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="24" height="24" alt="" /> CodeMentor AI
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="24" height="24" alt="" /> CodeMentor IA
 
-**Plataforma inteligente de mentoria em programação**
+**Mentoria interativa em lógica de programação com fluxos multiagente**
 
-Sistema de mentoria com IA que dá assistência em lógica de programação em tempo real via Server-Sent Events (SSE). Stack moderna e deploy com CI/CD automatizado.
+Plataforma própria de ensino assistido por IA desenvolvida com Python, FastAPI e Groq API. Orquestra fluxos multiagente e LLMs com streaming em tempo real via Server-Sent Events (SSE), validação estrita com Pydantic e deploy containerizado.
 
 <details>
-<summary><b>Recursos</b></summary>
+<summary><b>Destaques técnicos</b></summary>
 <br/>
 
-- Streaming em tempo real via SSE  
-- Validação com Pydantic  
-- CI/CD na Railway  
-- Docker para consistência  
-- LLM com Groq API  
+- Fluxos multiagente com LLMs via Groq API
+- Streaming em tempo real via Server-Sent Events (SSE)
+- Validação de schemas com Pydantic
+- Containerização com Docker e entrega contínua
 
 </details>
 
-`Python 3.12` · `FastAPI` · `Groq API` · `Docker` · `Railway` · `CI/CD`
+`Python` · `FastAPI` · `Groq API` · `Multiagente` · `SSE` · `Pydantic` · `Docker`
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibrazzi/code-mentor)
-[![Demo](https://img.shields.io/badge/Demo_ao_vivo-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://code-mentor-production-4d2f.up.railway.app)
+[![Demo](https://img.shields.io/badge/Demo_ao_vivo-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://code-mentor-5208.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Wine%20Glass.png" width="24" height="24" alt="" /> Vitrine de Vinhos Premium
 
-**Experiência de e-commerce headless**
+**Catálogo digital headless desenvolvido para a W Premium Lounge**
 
-Vitrine de vinhos da W Premium Lounge: frontend Vue 3 + backend FastAPI em arquitetura headless. Curadoria dinâmica e foco em performance.
+Interface responsiva e catálogo interativo com curadoria dinâmica de rótulos, gerenciamento de estado centralizado e integração com APIs REST para operação em ambiente de lounge aeroportuário.
 
 <details>
-<summary><b>Recursos</b></summary>
+<summary><b>Destaques técnicos</b></summary>
 <br/>
 
-- Arquitetura headless  
-- Design responsivo  
-- Integração com APIs  
-- Renderização otimizada  
-- Experiência premium  
+- Arquitetura headless desacoplada
+- Filtragem instantânea otimizada para mobile e tablet
+- Integração com serviços back-end em FastAPI e Express
+- Interface responsiva com Tailwind CSS
 
 </details>
 
@@ -165,24 +177,25 @@ Vitrine de vinhos da W Premium Lounge: frontend Vue 3 + backend FastAPI em arqui
 
 <div align="center">
 
-| Projeto | Repositório | Status |
-|:--------|:------------|:------:|
-| **CodeMentor AI** | [code-mentor](https://github.com/vibrazzi/code-mentor) | Ativo |
-| **Vitrine Vinhos** | [vitrine-vinhos](https://github.com/vibrazzi/vitrine-vinhos) | Ativo |
+| Projeto | Contexto / Repositório | Status |
+|:--------|:-----------------------|:------:|
+| **CodeMentor IA** | [vibrazzi/code-mentor](https://github.com/vibrazzi/code-mentor) · [Demo](https://code-mentor-5208.onrender.com/) | Ativo |
+| **App de Reviews & Widgets para Shopify** | Produto comercial · 87Labs (`Lit`, `Liquid`, `Shopify`) | Produção |
+| **Vitrine de Vinhos Premium** | [vibrazzi/vitrine-vinhos](https://github.com/vibrazzi/vitrine-vinhos) · [Demo](https://vitrine-vinhos.vercel.app/) | Ativo |
+| **Portfólio Pessoal** | [vibrazzi/portifolio-vue](https://github.com/vibrazzi/portifolio-vue) · [Live](https://webert-fernandes.vercel.app/) | Ativo |
 
 </div>
 
 ---
 
-### Competências
+### Experiência & Especialidades
 
-| Área | Nível |
-|:-----|:------|
-| **JavaScript & TypeScript** | `████████████████████` 95% |
-| **React & Vue.js** | `████████████████████` 90% |
-| **Desenvolvimento web** | `████████████████████` 93% |
-| **Integração de APIs** | `████████████████████` 85% |
-| **Plataformas de IA & LLMs** | `██████████░░░░░░░░░░` 50% |
+| Frente | Stack principal | Atuação |
+|:-------|:----------------|:--------|
+| **Travel Tech & IA Generativa** | `React`, `TypeScript`, `JavaScript`, `IA Generativa` | Cangooroo (T4W) · Modernização de legado e fluxos inteligentes |
+| **E-commerce & Corporativo** | `Shopify`, `Lit`, `Liquid`, `ServiceNow` | 87Labs · Widgets isolados com Web Components e integrações |
+| **Back-end & LLMs** | `Python`, `FastAPI`, `Groq API`, `Pydantic` | Orquestração multiagente, SSE em tempo real e APIs REST |
+| **Engenharia & Entrega** | `Tailwind CSS`, `Docker`, `Git`, `CI/CD` | Padronização visual, testes automatizados e deploy contínuo |
 
 ---
 
@@ -216,7 +229,7 @@ Vitrine de vinhos da W Premium Lounge: frontend Vue 3 + backend FastAPI em arqui
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" height="32" alt="" />
   <br/><br/>
-  <b>Bora construir algo foda juntos?</b>
+  <b>Bora construir algo sólido juntos?</b>
   <br/>
-  Aberto a collab, projetos ou papo sobre web e IA.
+  Aberto a conexões técnicas, projetos e desafios em Engenharia Web & IA.
 </div>
